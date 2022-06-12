@@ -1,0 +1,22 @@
+/*CSS*/
+
+
+.count{
+    font-size: 120px;
+}
+
+#decrease{
+    border: solid 1px black;
+    font-size: 30px;
+
+}
+
+#reset{
+    border: solid 1px black;
+    font-size: 30px;
+}
+
+#increase{
+    border: solid 1px black;
+    font-size: 30px;
+}
